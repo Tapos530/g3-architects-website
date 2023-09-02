@@ -184,11 +184,12 @@ header {
     line-height: 26px;
 }
 
-.feater-img {
+.feature-img {
     padding-left: 100px;
+    /* width: 50%; */
 }
 
-.feater-img img {
+.feature-img img {
     width: 100%;
 }
 
